@@ -31,5 +31,23 @@
 			"appCoverImage": "https://live.staticflickr.com/65535/50266825701_f42f1a7b34_o.png"
 
 		}
+	],
+	
+	"appSlideImages": [
+		
+		{
+		"slideImage":"https://live.staticflickr.com/65535/50340898418_a661d8000f_o.jpg",
+		"appUrl": "https://play.google.com/store/apps/details?id=com.rts.jojoringtones.jojos.best.music.song.ringtones.phonealm.siwa"
+		},
+		
+		{
+		"slideImage":"https://live.staticflickr.com/65535/50340898418_a661d8000f_o.jpg",
+		"appUrl": "https://play.google.com/store/apps/details?id=com.rts.jojoringtones.jojos.best.music.song.ringtones.phonealm.siwa"
+		},
+		
+		{
+		"slideImage":"https://live.staticflickr.com/65535/50340898418_a661d8000f_o.jpg",
+		"appUrl": "https://play.google.com/store/apps/details?id=com.rts.jojoringtones.jojos.best.music.song.ringtones.phonealm.siwa"
+		}
 	]
 }
