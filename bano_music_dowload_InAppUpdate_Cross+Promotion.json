@@ -7,14 +7,7 @@
 			"appCoverImage": "https://live.staticflickr.com/65535/50537002867_82ef0afc1a_o.png"
 		
 		},
-		{
-			"appIconStr": "https://live.staticflickr.com/65535/50537002787_1f6a4695d9_o.png",
-			"appTitle": "VPN For Free - The Best VPN App",
-			"appDescription": "Fastest Free VPN Proxy Servers, Secure Internet, Unlimited use, no logs",
-			"url": "https://play.google.com/store/apps/details?id=com.vpnforfree.the.best.vpn.app.secureinternet.fastest.proxy",
-			"appCoverImage": "https://live.staticflickr.com/65535/50536126633_382ebb8287_o.png"
 
-		},
 		{
 			"appIconStr": "https://live.staticflickr.com/65535/50536126668_dd3cc410d6_o.png",
 			"appTitle": "SENDit - Apps Transfer & Share Files",
@@ -23,6 +16,7 @@
 			"appCoverImage": "https://live.staticflickr.com/65535/50536851006_9ba2a37a51_o.png"
 
 		}
+		     
 	],
 	
 	"appSlideImages": [
@@ -35,11 +29,6 @@
 		{
 		"slideImage":"https://live.staticflickr.com/65535/50536126643_c78d041f06_o.jpg",
 		"appUrl": "https://play.google.com/store/apps/details?id=com.bs.sendit.files.transfer.share.shareit"
-		},
-		
-		{
-		"slideImage":"https://live.staticflickr.com/65535/50537002902_f1dbfe210c_o.jpg",
-		"appUrl": "https://play.google.com/store/apps/details?id=com.vpnforfree.the.best.vpn.app.secureinternet.fastest.proxy"
 		}
 	]
 }
